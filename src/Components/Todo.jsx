@@ -34,7 +34,7 @@ export const Todo = () => {
       <br />
       <input placeholder="Vegetables" type="text"></input>
       <br />
-      <input type="submit" placeholder="Save"></input>
+      <input type="submit" placeholder="Save Todo List"></input>
 
       </form>
     </div>
